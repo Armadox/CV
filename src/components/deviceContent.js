@@ -26,7 +26,7 @@ const DeviceContent = () => {
                                 <div>+40-725-573-545</div>
                                 <br/>
                                 <div>&#10094;!--MY_ADDRESS--&#10095;</div>
-                                <div>Romania, Arad, Strada Ion Buianu 48</div>
+                                <div>Romania, Arad, Ion Budai Deleanu 48</div>
                                 <br/>
                                 <div>if &#10088;u == interested&#10089;</div>
                                 <div>&#10100;  contactMe &#10088; &#10089;  &#10101;</div>

@@ -1018,7 +1018,7 @@ h2 > .comment {
 
 .pfp {
   border-radius: 48%;
-  border: 10px solid black;
+  border: 5px solid rgb(36, 35, 35);
   opacity: 0.5 !important;
   filter: gray;
   filter: grayscale(1);
