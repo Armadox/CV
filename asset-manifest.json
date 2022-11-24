@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.31dfc739.css",
+    "main.css": "/CV/static/css/main.6f0c112e.css",
     "main.js": "/CV/static/js/main.2aa47d7c.js",
     "static/js/787.2fe5556a.chunk.js": "/CV/static/js/787.2fe5556a.chunk.js",
     "static/media/gymsite.png": "/CV/static/media/gymsite.8ea75aa43f3835e1d2a0.png",
@@ -11,12 +11,12 @@
     "static/media/gymandmore.webp": "/CV/static/media/gymandmore.1304275e4b0f9598e0a6.webp",
     "static/media/mysql.png": "/CV/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "index.html": "/CV/index.html",
-    "main.31dfc739.css.map": "/CV/static/css/main.31dfc739.css.map",
+    "main.6f0c112e.css.map": "/CV/static/css/main.6f0c112e.css.map",
     "main.2aa47d7c.js.map": "/CV/static/js/main.2aa47d7c.js.map",
     "787.2fe5556a.chunk.js.map": "/CV/static/js/787.2fe5556a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31dfc739.css",
+    "static/css/main.6f0c112e.css",
     "static/js/main.2aa47d7c.js"
   ]
 }
