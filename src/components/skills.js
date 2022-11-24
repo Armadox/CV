@@ -30,6 +30,7 @@ const MySkills = () => {
                 <div className="other-skills hidden">
                     <h3 className="head">.other-skills:</h3>
                     <ul>
+                    <li>Can follow OOP principles.</li>
                     <li>Ability to follow orders.</li>
                     <li>Ability to work in a group or alone.</li>
                     <li>Fluency in internet research.</li>
