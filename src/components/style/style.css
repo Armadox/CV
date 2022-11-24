@@ -736,6 +736,10 @@ h2 > .comment {
   display: flex;
   justify-content: space-evenly;
 }
+.projects > .projects-part > div > p > a {
+  color: rgb(219, 35, 35) !important;
+  font-weight: bold;
+}
 
 .part > .device-area {
   width: 100%;
