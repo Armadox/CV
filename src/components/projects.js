@@ -17,7 +17,7 @@ const MyProject = () => {
                             Website was built using Php, MySQL, Sass, Bootstrap-5, Javascript, React (Uses React Browser Routing) and dotenv.<br/>
                             Project took around 2 weeks while studying React and JSON.<br/>
                             Passed the test with 12/12 :D .<br/>
-                            <a href="https://gym-and-more.ro">Click to go to go to website !</a>
+                            <a href="http://adriandan1998.000webhostapp.com">Click here to go to go to website !</a>
                         </p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const MyProject = () => {
                             Website was built by mainly using Php, Javascript, jQuery, Bootstrap-5 and CSS.<br/>
                             Functional AJAX cart that updates every time you add something in the cart.<br/>
                             Project took around 2 weeks.<br/>
-                            <a href="http://adriandan1998.000webhostapp.com">Click to go to go to website !</a>
+                            <a href="https://gym-and-more.ro">Click here to go to go to website !</a>
                         </p>
                     </div>
                 </div>
