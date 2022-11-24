@@ -33,7 +33,6 @@ const MyExp = () => {
                                     I work as a Sales Manager at Gym&More in Arad.<br/>
                                     I'm responsible for any sales data in this shop and advertising products to get more sales.<br/>
                                     Since the shop is a small start-up supplement shop, the shop is pretty easy.
-                                    <a href="http://adriandan1998.000webhostapp.com">Click me to go to go to website</a>
                                 </div>
                             </div>
                         </div>
@@ -68,7 +67,6 @@ const MyExp = () => {
                                     I made my first website working here, so it's a pretty newbish site.<br/>
                                     Editing Wordpress files to create a custom theme, felt really hard all by my own while studying Php and SEO.<br/>
                                     Website is online and running well and we had a sale the first week the site went online!
-                                    <a href="https://gym-and-more.ro">Click me to go to go to website</a>
                                 </div>
                             </div>
                         </div>

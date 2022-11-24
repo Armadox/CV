@@ -15,7 +15,8 @@ const MyProject = () => {
                             The custom theme was built by reverse engineering and editing Wordpress php files.<br/>
                             Website was built by mainly using Php, Javascript, jQuery, Bootstrap-5 and CSS.<br/>
                             Functional AJAX cart that updates every time you add something in the cart.<br/>
-                            Project took around 2 weeks.
+                            Project took around 2 weeks.<br/>
+                            <a href="http://adriandan1998.000webhostapp.com">Click me to go to go to website</a>
                         </p>
                     </div>
                 </div>
@@ -33,7 +34,8 @@ const MyProject = () => {
                             Frontend uses React, backend uses Php, MySQL and it was designed with Sass.<br/>
                             Website was built using Php, MySQL, Sass, Bootstrap-5, Javascript, React (Uses React Browser Routing) and dotenv.<br/>
                             Project took around 2 weeks while studying React and JSON.<br/>
-                            Passed the test with 12/12 :D .
+                            Passed the test with 12/12 :D .<br/>
+                            <a href="https://gym-and-more.ro">Click me to go to go to website</a>
                         </p>
                     </div>
                 </div>
