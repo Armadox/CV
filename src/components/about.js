@@ -30,7 +30,7 @@ const AboutMe = () => {
             <h2>Hello, my name is Dan Adrian. <br/><span className="comment">//or_Ady_forShort --></span></h2>
             <h3>Very = (nice) => &#10100; meet you! :D &#10101;</h3>
             <p className="introduction">myIntroduction<span>()</span> </p>
-            <p className="introduction-text">&#10100;<br/>I'm a self taught <span>Web Developer</span> that is looking forward to build some of the <span>greatest f*king websites</span> out there with a kickass team! <br/>
+            <p className="introduction-text">&#10100;<br/>I'm a self-taught <span>Web Developer</span> that is looking forward to build some of the <span>greatest f*king websites</span> out there with a kickass team! <br/>
             I wish you a wonderful day!<br/>&#10101;</p>
         </section>
 
@@ -47,10 +47,10 @@ const AboutMe = () => {
                         Over the last few years, my interest in <span>.game-developing</span> and <span>.software-developing</span> peaked.<br/>
                         I started learning <span>C++, C#, LinQ</span> AAAAND I learned <span>.3D-modelling</span> by using <span>#Blender</span>.<br/></p>
                         <br/>
-                        <p className="about-me-text hidden">Fast forward a year or two, and I developed my interest in creating <span>.fullstack-websites</span>.
+                        <p className="about-me-text hidden">Fast forward a year or two, I developed my interest in creating <span>.fullstack-websites</span>.
                         I started learning from courses, youtube tutorials and had to figure stuff out I couldn't find anywhere on the web.
-                        I was lucky enough for some of my distant family members to open up a small business in <span>Romania</span> where I had the oppertunity to work while <span>continuing to develop my webdev skills</span>.<br/>
-                        Being thankful for them, I studied on how to make them a working <span>#Wordpress-Website</span> by creating a <span>.custom-theme</span> for them. <span className="comment">//by reverse engineering some wordpress files</span>.</p>
+                        I was lucky enough for some of my distant family members to open up a small business in <span>Romania</span> where I had the opportunity to work while <span>continuing to develop my webdev skills</span>.<br/>
+                        Being thankful to them, I studied on how to make a working <span>#Wordpress-Website</span> and developed a <span>.custom-theme</span> for them. <span className="comment">//by reverse engineering some wordpress files</span>.</p>
                         <br/>
                         <p className="about-me-text hidden">I have come a long way since then but <span>nowhere near my finish line</span><br/>
                         Here are the <span>.technologies</span> I'm using in website development:<br/></p>
