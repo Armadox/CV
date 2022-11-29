@@ -40,7 +40,7 @@ const MySkills = () => {
                     <li>Basic software knowledge of Adobe Photoshop, Adobe Sony Vegas, Microsoft Word/Excel/PowerPoint, VSC, Unity(Game Engine).</li>
                     <li>Romanian B2 | German C1 | English C2</li>
                     <li style={{color: 'Orange'}}>Feared Among Us legend ,under the name of AssGod, that brought terror to kids worldwide!</li>
-                    <li style={{color: 'Orange'}}>Future racist once I have my race car.</li>
+                    <li style={{color: 'Orange'}}>Hunted for warcrimes (in games).</li>
                     <li style={{color: 'Orange'}}>Most opressed social group on earth, a.k.a a gamer...</li>
                     <li style={{color: 'Orange'}}>Popular with the ladies.</li>
                     </ul>
