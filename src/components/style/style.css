@@ -153,8 +153,8 @@ main > .page {
 }
 .part > h2 > .comment {
   opacity: 0;
-  -webkit-animation: appearright ease-out forwards;
-          animation: appearright ease-out forwards;
+  -webkit-animation: appeardown ease-out forwards;
+          animation: appeardown ease-out forwards;
   -webkit-animation-duration: 0.2s;
           animation-duration: 0.2s;
   -webkit-animation-delay: 1s;
@@ -192,6 +192,9 @@ h2 > .comment {
   padding-left: 50px;
 }
 
+.greeting {
+  min-height: 100vh !important;
+}
 .greeting > h2 {
   font-family: "Inter", sans-serif;
 }
@@ -415,8 +418,8 @@ h2 > .comment {
   box-shadow: 8.8px 8.6px 9.6px hsla(0deg, 0%, 0%, 0.38);
 }
 .other-skills.show {
-  -webkit-animation: appearright ease-out forwards;
-          animation: appearright ease-out forwards;
+  -webkit-animation: appearleft ease-out forwards;
+          animation: appearleft ease-out forwards;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
   -webkit-animation-delay: 0.5s;
@@ -646,8 +649,8 @@ h2 > .comment {
 }
 .experience-section > .row > div.show:nth-child(2) {
   opacity: 0;
-  -webkit-animation: appearright ease-out forwards;
-          animation: appearright ease-out forwards;
+  -webkit-animation: appeardown ease-out forwards;
+          animation: appeardown ease-out forwards;
   -webkit-animation-duration: 0.2s;
           animation-duration: 0.2s;
   -webkit-animation-delay: 0.5s;

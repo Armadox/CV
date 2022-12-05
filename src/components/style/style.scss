@@ -174,7 +174,7 @@ main > .page
         >.comment
         {
             opacity: 0;
-        animation: appearright ease-out forwards;
+        animation: appeardown ease-out forwards;
         animation-duration: 0.2s;
         animation-delay: 1s;
         position: relative;
@@ -200,6 +200,8 @@ main > .page
     }
     
 }
+
+
 
 h2
 {
@@ -237,6 +239,8 @@ h2
             box-shadow: 5.8px 5.6px 6.6px hsl(0deg 0% 0% / 0.38);
         }
     }
+
+    min-height: 100vh!important;
 }
 
 .introduction
@@ -424,7 +428,7 @@ h2
 
     &.show
     {
-        animation: appearright ease-out forwards;
+        animation: appearleft ease-out forwards;
         animation-duration: 0.5s;
         animation-delay: 0.5s;
         position: relative;
@@ -707,7 +711,7 @@ h2
     &.show:nth-child(2)
     {
         opacity: 0;
-        animation: appearright ease-out forwards;
+        animation: appeardown ease-out forwards;
         animation-duration: 0.2s;
         animation-delay: 0.5s;
         position: relative;
